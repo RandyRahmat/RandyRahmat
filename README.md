@@ -1,1 +1,3 @@
-Hey there, **I’m Randy** — I like building small, practical projects to solve problems I run into.
+<p align="center">
+  <img src="assets/heatmap-grid.gif" alt="Contribution Heatmap, animated ASCII art" width="720">
+</p>
